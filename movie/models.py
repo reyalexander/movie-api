@@ -16,3 +16,4 @@ class Movie(models.Model):
 
     class Meta:
         db_table = "movies"
+
